@@ -1,0 +1,1 @@
+dataset de imágenes para entrenamiento sin presencia de fuego
